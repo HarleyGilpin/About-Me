@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
-<script type="IN/FollowCompany" data-id="harley-gilpin" data-counter="bottom"></script>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=63ebc37ab2f3620019abbcb1&product=inline-follow-buttons&source=platform" async="async"></script>
 
 </p>
 
