@@ -15,8 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=63ebc37ab2f3620019abbcb1&product=inline-follow-buttons&source=platform" async="async"></script>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
