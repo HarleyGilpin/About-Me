@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://harleygilpin.com](https://harleygilpin.com)
 
-- 💬 Ask me about **Java and Unity 3D.**
+- 💬 Ask me about **Programming or RPA.**
 
 - 📫 How to reach me **hg@harleygilpin.com**
 
