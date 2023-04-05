@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harleygilpin&label=Profile%20views&color=0e75b6&style=flat" alt="harleygilpin" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin and Python**
 
 - 📝 I regularly write articles on [https://harleygilpin.com](https://harleygilpin.com)
 
