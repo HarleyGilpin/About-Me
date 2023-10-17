@@ -1,6 +1,7 @@
 # Hey there, I'm Harley "Pixel"! 👋😊
 
-![banner that says Harley "Pixel" - Developer, Creator, Explorer]([url-to-your-personal-banner-if-you-have-one](https://github.com/HarleyGilpin/HarleyGilpin/assets/75695035/98a0fb84-382b-442f-86f2-f36940b25457)
+![github-header-image](https://github.com/HarleyGilpin/HarleyGilpin/assets/75695035/907ae2ca-a55a-43c2-8621-a916bb09395a)
+
 
 I'm a full-stack magic-maker living in the heart of Eugene, Oregon. 🌲✨ When I'm not pushing pixels or tweaking code, you'll find me on hiking trails, sipping coffee, or leveling up at the gym. ☕💪
 
