@@ -2,7 +2,7 @@
 Hey there! I'm **Harley** :blush:, but most people know me as **Pixel** on the web.
 
 :round_pushpin: I'm currently based in **Eugene, Oregon**.  
-:computer: A seasoned full-stack developer with a versatile professional background.
+:computer: full-stack developer with a versatile professional background.
 
 ## :book: My Story
 My journey started at **Bushnell University** where I specialized in **Business Management and Administration**. Thereafter, I delved into freelance software development and digital marketing. For the past 18 months, I've been sculpting my skills as an RPA Developer at **Armanino**.
