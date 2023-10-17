@@ -23,8 +23,6 @@ Over the past 12 years, I've honed my abilities across a spectrum of languages a
 - React
 - Node.js
 
-:trophy: Also, I'm a certified **Microsoft Power Platform** professional. My journey as an RPA developer has been enriched with technical proficiency, adaptability, and robust problem-solving.
-
 ## :dart: Goals
 In the near future, I am determined to:
 - Enhance my expertise with current RPA tools and languages.
