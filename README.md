@@ -1,41 +1,38 @@
-# About Me :wave:
-Hey there! I'm **Harley** :blush:, but most people know me as **Pixel** on the web.
+# Hey there, I'm Harley "Pixel"! 👋😊
 
-:round_pushpin: I'm currently based in **Eugene, Oregon**.  
-:computer: full-stack developer with a versatile professional background.
+![banner that says Harley "Pixel" - Developer, Creator, Explorer](url-to-your-personal-banner-if-you-have-one)
 
-## :book: My Story
-My journey started at **Bushnell University** where I specialized in **Business Management and Administration**. Thereafter, I delved into freelance software development and digital marketing. For the past 20 months, I've been sculpting my skills as an RPA Developer at **Armanino**.
+I'm a full-stack magic-maker living in the heart of Eugene, Oregon. 🌲✨ When I'm not pushing pixels or tweaking code, you'll find me on hiking trails, sipping coffee, or leveling up at the gym. ☕💪
 
-## :wrench: Tech Stack
-Over the past 12 years, I've honed my abilities across a spectrum of languages and frameworks.
+## 🚀 The Journey So Far...
 
-### Languages:
-- Python
-- Kotlin
-- Java
-- HTML/CSS
+My story? Unconventional! I jumped from Business Management 🎓 at Bushnell University straight into the freelance software development and digital marketing, and currently, I'm weaving automation magic at Armanino. 🤖✨
 
-### Frameworks:
-- Django
-- Laravel
-- Ruby on Rails
-- React
-- Node.js
+## 🛠️ I Speak Code!
 
-## :dart: Goals
-In the near future, I am determined to:
-- Enhance my expertise with current RPA tools and languages.
-- Bag a few more certifications.
+Been at it for 12 years and here's the scoop:
 
-Long-term, I envision myself as:
-- A revered expert in RPA technology.
-- A mentor for budding developers.
-- A captain leading high-performing tech teams.
+- **Loving**: Python 🐍, Kotlin ☕
+- **Using**: Django, Laravel, RoR, React, Node.js
+- **Admiring**: Java, HTML/CSS 🎨
 
-## :handshake: Let's Connect
-Considering potential opportunities or collaborations? I'd love to chat!  
-[Connect with me on LinkedIn](https://www.linkedin.com/in/Harley-Gilpin/)
+## 🌟 Current Quests & Future Boss Battles
 
-<h2>Github Contributions</h2>
+**Now:**
+- Mastering the art of RPA (it's like teaching a robot to paint! 🖌️🤖)
+- Hoarding...err, *earning* more shiny certifications 🏅
+
+**Epic Future Bosses:**
+- Becoming the Gandalf of RPA (but with fewer fireworks 🎆)
+- Guiding newbie devs through their first code dungeons 🧙‍♂️💻
+- Leading a guild of tech heroes on legendary projects 🛡️
+
+## 🍻 Grab a Virtual Coffee with Me?
+
+Got an idea? A quest proposal? Or just spotted a dragon? (hey, it could happen! 🐉)
+
+👉 [Let's talk on LinkedIn](https://www.linkedin.com/in/Harley-Gilpin/)
+
+## 🌟 My GitHub Saga Continues...
+
 <p><img align="center" src="https://streak-stats.demolab.com?user=harleygilpin&theme=dark&hide_border=true" alt="harleygilpin" /></p>
