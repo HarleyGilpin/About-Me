@@ -5,7 +5,7 @@ Hey there! I'm **Harley** :blush:, but most people know me as **Pixel** on the w
 :computer: full-stack developer with a versatile professional background.
 
 ## :book: My Story
-My journey started at **Bushnell University** where I specialized in **Business Management and Administration**. Thereafter, I delved into freelance software development and digital marketing. For the past 18 months, I've been sculpting my skills as an RPA Developer at **Armanino**.
+My journey started at **Bushnell University** where I specialized in **Business Management and Administration**. Thereafter, I delved into freelance software development and digital marketing. For the past 20 months, I've been sculpting my skills as an RPA Developer at **Armanino**.
 
 ## :wrench: Tech Stack
 Over the past 12 years, I've honed my abilities across a spectrum of languages and frameworks.
