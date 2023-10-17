@@ -37,7 +37,7 @@ Long-term, I envision myself as:
 
 ## :handshake: Let's Connect
 Considering potential opportunities or collaborations? I'd love to chat!  
-[Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-link/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/Harley-Gilpin/)
 
 <h2>Github Contributions</h2>
 <p><img align="center" src="https://streak-stats.demolab.com?user=harleygilpin&theme=dark&hide_border=true" alt="harleygilpin" /></p>
