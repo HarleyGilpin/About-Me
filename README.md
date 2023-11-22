@@ -1,36 +1,38 @@
-# Hey there, I'm Harley "Pixel"! 👋😊
+# Hello, I'm Harley 👋
 
-I'm a full-stack magic-maker living in the heart of Eugene, Oregon. 🌲✨ When I'm not pushing pixels or tweaking code, you'll find me on hiking trails, sipping coffee, or leveling up at the gym. ☕💪
+I'm a Business Process Automation Developer at Armanino LLP, where I specialize in creating efficient workflows and automating business processes to drive productivity and innovation. With a strong background in technology solutions like Microsoft Power Platform, Alteryx, Python, and Django, I'm passionate about leveraging software to solve complex problems.
 
-## 🚀 The Journey So Far...
+## About Me
 
-My story? Unconventional! I jumped from Business Management 🎓 at Bushnell University straight into the freelance software development and digital marketing, and currently, I'm weaving automation magic at Armanino. 🤖✨
+- 🤖 I'm currently working on automating business processes at Armanino LLP.
+- 🐍 Skilled in Python, Django, Microsoft Power Platform, and Alteryx.
+- 🕹️ In my free time, I manage and maintain [2011Scape](https://github.com/2011Scape), an open-source emulation project.
+- 📈 I'm passionate about open-source software and collaborative development.
 
-## 🛠️ I Speak Code!
+## My Work
 
-Been at it for 12 years and here's the scoop:
+[//]: # (Use this section to showcase your work. Include snippets, gifs, or screenshots of your projects. You can also link to your projects.)
 
-- **Loving**: Python 🐍, Kotlin ☕
-- **Using**: Django, Laravel, RoR, React, Node.js
-- **Admiring**: Java, HTML/CSS 🎨
+### [2011Scape](https://github.com/2011Scape)
+I serve as the Project Manager and core maintainer for 2011Scape, an emulation of RuneScape as it was in 2011. This project is a testament to my project management skills and dedication to maintaining a large-scale, open-source codebase.
 
-## 🌟 Current Quests & Future Boss Battles
+### Business Process Automation Projects
+At Armanino LLP, I've been instrumental in developing and deploying automated solutions that have streamlined operations and SOC Audits. My work has contributed to significant time savings and accuracy improvements.
 
-**Now:**
-- Mastering the art of RPA (it's like teaching a robot to paint! 🖌️🤖)
-- Hoarding...err, *earning* more shiny certifications 🏅
+## Skills
 
-**Epic Future Bosses:**
-- Becoming the Gandalf of RPA (but with fewer fireworks 🎆)
-- Guiding newbie devs through their first code dungeons 🧙‍♂️💻
-- Leading a guild of tech heroes on legendary projects 🛡️
+- **Languages & Frameworks:** Python, Django
+- **Platforms:** Microsoft Power Platform
+- **Tools:** Alteryx, Git, SQL
+- **Soft Skills:** Project Management, Team Collaboration, Problem Solving
 
-## 🍻 Grab a Virtual Coffee with Me?
+## Let's Connect
 
-Got an idea? A quest proposal? Or just spotted a dragon? (hey, it could happen! 🐉)
+- [LinkedIn](https://www.linkedin.com/in/Harley-Gilpin/)
+- [Email](mailto:hg@harleygilpin.com)
 
-👉 [Let's talk on LinkedIn](https://www.linkedin.com/in/Harley-Gilpin/)
+Feel free to reach out to me for collaborations or just a chat about technology, automation, and everything in between!
 
-## 🌟 My GitHub Saga Continues...
+## 🌟 My GitHub Stats...
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=harleygilpin&theme=dark&hide_border=true" alt="harleygilpin" /></p>
