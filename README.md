@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm an IT Auditor at Armanino LLP, making sure our clients
 ## About Me
 
 - 👔 **Current Role:** IT Auditor at Armanino LLP
-- 🛠️ **Skills:** Python, Django, Microsoft Power Platform, Alteryx
+- 🛠️ **Skills:** Computer Programming, Microsoft Power Platform, Alteryx Designer
 - 💡 **Fun Fact:** I run [2011Scape](https://github.com/2011Scape), a RuneScape emulation project.
 - 🌐 **Passion:** Open-source software and collaborative development
 
