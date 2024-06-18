@@ -1,38 +1,29 @@
 # Hello, I'm Harley 👋
 
-I'm a Business Process Automation Developer at Armanino LLP, where I specialize in creating efficient workflows and automating business processes to drive productivity and innovation. With a strong background in technology solutions like Microsoft Power Platform, Alteryx, Python, and Django, I'm passionate about leveraging software to solve complex problems.
+Welcome to my GitHub! I'm an IT Auditor at Armanino LLP, making sure our information systems are top-notch and compliant. I love tech and have a knack for tools like Microsoft Power Platform, Alteryx, Python, and Django. When I'm not auditing, you can find me working on open-source projects or diving into some code.
 
 ## About Me
 
-- 🤖 I'm currently working on automating business processes at Armanino LLP.
-- 🐍 Skilled in Python, Django, Microsoft Power Platform, and Alteryx.
-- 🕹️ In my free time, I manage and maintain [2011Scape](https://github.com/2011Scape), an open-source emulation project.
-- 📈 I'm passionate about open-source software and collaborative development.
+- 🔍 **Current Role:** IT Auditor at Armanino LLP
+- 🐍 **Skills:** Python, Django, Microsoft Power Platform, Alteryx
+- 🕹️ **Fun Fact:** I run [2011Scape](https://github.com/2011Scape), a RuneScape emulation project.
+- 📈 **Passion:** Open-source software and collaborative development
 
-## My Work
-
-[//]: # (Use this section to showcase your work. Include snippets, gifs, or screenshots of your projects. You can also link to your projects.)
+## Projects
 
 ### [2011Scape](https://github.com/2011Scape)
-I serve as the Project Manager and core maintainer for 2011Scape, an emulation of RuneScape as it was in 2011. This project is a testament to my project management skills and dedication to maintaining a large-scale, open-source codebase.
+I'm the Project Manager and main maintainer for 2011Scape, bringing back the nostalgic RuneScape experience from 2011. It's a large open-source project, and I'm proud of the community and codebase we've built.
 
-### Business Process Automation Projects
-At Armanino LLP, I've been instrumental in developing and deploying automated solutions that have streamlined operations and SOC Audits. My work has contributed to significant time savings and accuracy improvements.
-
-## Skills
-
-- **Languages & Frameworks:** Python, Django
-- **Platforms:** Microsoft Power Platform
-- **Tools:** Alteryx, Git, SQL
-- **Soft Skills:** Project Management, Team Collaboration, Problem Solving
+### Automation at Armanino
+At Armanino LLP, I've developed automated solutions to streamline operations and improve SOC Audits, saving time and boosting accuracy.
 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/Harley-Gilpin/)
 - [Email](mailto:hg@harleygilpin.com)
 
-Feel free to reach out to me for collaborations or just a chat about technology, automation, and everything in between!
+Feel free to reach out for collaborations or just to chat about tech, auditing, and everything in between!
 
-## 🌟 My GitHub Stats...
+## 🌟 GitHub Stats
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=harleygilpin&theme=dark&hide_border=true" alt="harleygilpin" /></p>
