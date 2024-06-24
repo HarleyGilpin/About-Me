@@ -26,4 +26,8 @@ Feel free to reach out for collaborations or just to chat about tech, auditing, 
 
 ## 🌟 GitHub Stats
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=harleygilpin&theme=dark&hide_border=true" alt="harleygilpin" /></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=harleygilpin&show_icons=true&bg_color=0D1117&hide_border=true&theme=vision-friendly-dark#gh-dark-mode-only)" />
+<img src="https://streak-stats.demolab.com?user=harleygilpin&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=harleygilpin&theme=dark&hide_border=true&bg_color=0D1117&title_color=D89704" />
